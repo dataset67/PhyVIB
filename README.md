@@ -1,4 +1,4 @@
-# PhyVIB: Physics-commonse Violation Image Benchmark
+# PhyVIB: Physics-commonsense Violation Image Benchmark
 
 | **Categories**               | **Sub-Categories**                               | **Definition**                                                                                                                                                       | **Number of Images (to be uploaded)** |
 |------------------------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
