@@ -1,5 +1,9 @@
 # PhyVIB: Physics-commonsense Violation Image Benchmark
 
+Our purposed PhyVIB has totally 16000 images with 8 categories. We provide the code and data examples here, the whole dataset will be released after the paper is accepted.
+
+The following table illustrates the definition and images numbers of each category.
+
 | **Categories**         | **Sub-Categories**                             | **Definition**                                                                                                                                                                                       | **Number of Images (to be uploaded)** |
 |------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | **Human Anomalies**    | **Abnormal Limb Number**                       | A deviation from the typical number of limbs or extremities in the human body, referring to either an excess or a deficiency in the number of limbs.                                                  | 1000                                  |
