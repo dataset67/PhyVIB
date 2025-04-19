@@ -394,9 +394,9 @@ def calculate_grpo_loss(policy_mdl, ref_mdl, rollout_data, proc, reward_func, be
 
 
 def run_grpo_training(mdl_train, proc, train_ds,
-                      n_loops=1, n_steps=500, batch_sz=4,
-                      n_gen=4, max_len=128, beta=0.1,
-                      lr=5e-6, mu=3, epsilon=0.2,
+                      n_loops=1, n_steps=#, batch_sz=#,
+                      n_gen=4, max_len=128, beta=#,
+                      lr=#, mu=#, epsilon=#,
                       reward_f=None, gpu_ids=None):
 
     if gpu_ids is None or len(gpu_ids) <= 1:
